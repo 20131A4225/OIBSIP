@@ -2,6 +2,28 @@
 Oasis Infobyte internship 
 
 
+TO-DO-LIST
+![Screenshot 2023-04-03 165736](https://user-images.githubusercontent.com/111061076/229507030-1e3deb02-6678-4b0a-a6c0-9652f62ffb04.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 TRIBUTE PAGE
 
   ![Screenshot (264)](https://user-images.githubusercontent.com/111061076/229512009-5a7f5ba3-7469-4fd6-b327-d513d19e3db9.png)
